@@ -12,5 +12,6 @@ Visit
 [Google](https://google.com)
 [MBS Card](https://www.ausdoc.com.au/wp-content/uploads/2023/05/MBS-card_JUN23.pdf)
 [MBS Telehealth](https://www.ausdoc.com.au/wp-content/uploads/2023/06/MBS-card_JUN23.V2_COVID-19.pdf)
+[IPSS Score] (https://www.disabled-world.com/calculators-charts/ipss-table.php)
 
 asdasdacasc
