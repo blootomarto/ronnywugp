@@ -20,3 +20,8 @@ The contents is as per below
 ### Female Health
 [Breastscreen](https://www.breastscreen.nsw.gov.au/)
 
+### Gastroenterology
+[Hepatitis C form](https://www.hepcguidelines.org.au/wp-content/uploads/2022/11/Remote-consultation-form-2022.pdf)
+
+### Diagrams
+[LinkToSomeUsefulDiagrams](https://docs.google.com/presentation/d/1uKwBGB_0zEfxm3Z-sC6sJBKTLzfYjNbMDdXckNk13wo/edit?usp=sharing)
